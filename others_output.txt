@@ -8,8 +8,6 @@ Love_Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Fight_Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-佛山影视,http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
-顺德综合,http://www.namewee.xyz/gudou.php?id=shundeHD_4500
 上海,http://123.189.36.80:9901/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0
 东南,http://123.189.36.80:9901/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0
 北京,http://123.189.36.80:9901/tsfile/live/1151_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1472,9 +1470,6 @@ RTHK,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 Прямий,http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-怀旧剧场,http://ipv6.fzszyx.com:9672/cqyx.php?id=hjjc
-女性时尚,http://ipv6.fzszyx.com:9672/cqyx.php?id=nxss
-央视文化精品,http://ipv6.fzszyx.com:9672/cqyx.php?id=whjp
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3695b0bdef5e698635e
@@ -1493,6 +1488,7 @@ TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+怀旧好电影,https://live.metshop.top/yy/1382736910
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 1905电影网1(国内电影),http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905电影网2(国外电影),http://php.jdshipin.com:8880/1905.php?id=1905dy2
@@ -1543,8 +1539,8 @@ NewTV中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/
 魅力足球,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
 游戏风云,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
+渴望,https://live.metshop.top/yy/1354930963
 回家的诱惑,https://lunbo.freetv.top/yy/1382851148
-金星脱口秀,https://live.metshop.top/yy/1354932407,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 杨紫琼-爱似流星,https://vd4.bdstatic.com/mda-nei02hdtnd2c88ci/sc/cae_h264/1652920810425683641/mda-nei02hdtnd2c88ci.mp4
 李丽芬-得意的笑,http://vdown.kuwo.cn/resource//t4/22/49/ZAlSw_dVq1Q.mp4
 李丽芬-爱江山更爱美人,http://em.21dtv.com/songs/60007640.mkv
@@ -1605,15 +1601,16 @@ ATEEZ-Aurora(曙光),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1
 湖南国际,http://223.159.10.109:8099/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南娱乐,http://175.10.228.46:8081/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://124.228.160.126:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://175.10.228.46:8081/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐,http://175.10.228.46:8081/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://223.159.10.109:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南教育,http://223.159.10.109:8099/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南教育台,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://175.10.228.46:8081/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://124.228.160.126:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://175.10.228.46:8081/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://223.159.10.109:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南电视剧,http://222.241.154.37:9901/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电视剧,http://124.228.160.126:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1621,13 +1618,14 @@ ATEEZ-Aurora(曙光),https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1
 湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://124.228.160.126:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://223.159.10.109:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南都市,http://124.228.160.126:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://175.10.228.46:8081/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://175.10.228.46:8081/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://124.228.160.126:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://223.159.10.109:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 金鹰纪实,http://124.228.160.126:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://223.159.10.109:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-20:24:07,url
+20:24:31,url
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
 CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
 CGTN纪录,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
